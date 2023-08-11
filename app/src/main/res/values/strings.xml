@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MagicMaths</string>
+    <string name="app_name">Magic Maths</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -10,4 +10,18 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="textview">TextView</string>
+    <string name="mail">thimiramanujaya@gmail.com</string>
+
+    <string name="faceb">
+        <a href="https://www.facebook.com/thimira.manujaya.14/">www.facebook.com/thimira.manujaya</a>
+    </string>
+    <string name="ins">
+        <a href="https://www.instagram.com">www.instagram.com</a>
+    </string>
+    <string name="number1">මෙහි ඇතුල් කරන්න.</string>
+    <string name="number2">මෙහි ඇතුල් කරන්න.</string>
+    <string name="number3"> </string>
+    <string name="number4"> </string>
+
 </resources>
